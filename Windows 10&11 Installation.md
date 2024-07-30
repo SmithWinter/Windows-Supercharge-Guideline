@@ -2,8 +2,6 @@
 
 ## ❗ *Require: An USB stick >8gb space* ❗
 
---- *Disclaimer: This guide for personal device only* ---
-
 ## **1. 💾 Ventoy**
 
 Ventoy is an open-source tool designed to create bootable USB drives for operating systems. Unlike traditional methods that require formatting the USB drive and copying the OS files each time, Ventoy allows users to simply copy ISO, WIM, IMG, VHD, or EFI files to the USB drive and boot from them directly. This makes it a versatile and convenient solution for managing multiple operating system installations or live environments from a single USB drive.
@@ -12,26 +10,30 @@ Ventoy is an open-source tool designed to create bootable USB drives for operati
 
 📄 ***Getting Started***: [Document](https://www.ventoy.net/en/doc_start.html)
 
-📄 ***Secure Boot Support***: [Document](https://www.ventoy.net/en/doc_secure.html)
-
 After install Ventoy into USB you are free to copy ISO into it
 
-🖼️ ***Screenshot*:** [Link](https://ventoy.net/en/screenshot.html)
+To test it, restart your computer, access the boot menu then select the USB drive
+
+📄 ***If you enable Secure Boot support when install Ventoy***: [Document](https://www.ventoy.net/en/doc_secure.html)
+
+🔗 ***Access boot menu***: [Wikihow](https://www.wikihow.com/Get-to-the-Boot-Menu-on-Windows)
+
+🖼️ ***Screenshot*:** [Screenshot](https://ventoy.net/en/screenshot.html)
 
 ## **2. 💿 Windows 10/11 LTSC ISO**
 
 ### 🤔 *Why LTSC (Long-term Servicing Channel) ?*
 
-- ***Long-term support (10 years) (comparing to general version which supports 5 years)***
+- ***Long-term support (10 years) comparing to general channel which supports 5 years***
 
 - ***High stability/less update***
 - ***No bloatware/trash app***
 
 ❗ ***Note: Windows 10 LTSC EOL at January 12, 2027***
 
-🔗 ***Download*:** [Link](https://massgrave.dev/windows_ltsc_links)
+🔗 ***Download*:** [ISO](https://massgrave.dev/windows_ltsc_links)
 
-#### 😋 *Windows 11 Bypass Login Requirement when install*
+### 😋 *Windows 11 Bypass Login Requirement during installation*
 
 🖥️ **Command line method**
 
