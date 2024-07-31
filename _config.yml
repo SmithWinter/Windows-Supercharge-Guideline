@@ -1,0 +1,7 @@
+github:
+  owner_name: Smith Winter
+  owner_url: https://github.com/SmithWinter
+  repository_url: https://github.com/SmithWinter/Windows-Supercharge-Guideline
+
+show_header: true
+remote_theme: "dracula/gh-pages"
