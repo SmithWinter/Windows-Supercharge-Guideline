@@ -1,10 +1,10 @@
-# 💽 Windows 10/11 Installation 💽
-
-## ❗ *Require: An USB stick >8gb space* ❗
+# 💽 Windows 10/11 LTSC Installation 💽
 
 ## **1. 💾 Ventoy**
 
 Ventoy is an open-source tool designed to create bootable USB drives for operating systems. Unlike traditional methods that require formatting the USB drive and copying the OS files each time, Ventoy allows users to simply copy ISO, WIM, IMG, VHD, or EFI files to the USB drive and boot from them directly. This makes it a versatile and convenient solution for managing multiple operating system installations or live environments from a single USB drive.
+
+❗ *Requirement: An USB stick >8gb space*
 
 🔗 ***Download*** : [Ventoy](https://ventoy.net/en/index.html)
 
@@ -16,7 +16,7 @@ To test it, restart your computer, access the boot menu then select the USB driv
 
 📄 ***If you enable Secure Boot support when install Ventoy***: [Document](https://www.ventoy.net/en/doc_secure.html)
 
-🔗 ***Access boot menu***: [Wikihow](https://www.wikihow.com/Get-to-the-Boot-Menu-on-Windows)
+📄 ***Access boot menu***: [Wikihow](https://www.wikihow.com/Get-to-the-Boot-Menu-on-Windows)
 
 🖼️ ***Screenshot*:** [Screenshot](https://ventoy.net/en/screenshot.html)
 
@@ -24,10 +24,10 @@ To test it, restart your computer, access the boot menu then select the USB driv
 
 ### 🤔 *Why LTSC (Long-term Servicing Channel) ?*
 
-- ***Long-term support (10 years) comparing to general channel which supports 5 years***
-
-- ***High stability/less update***
-- ***No bloatware/trash app***
+- *Long-term support (10 years) comparing to general channel which supports 5 years*
+- *High stability/less update*
+- *No preinstalled bloatware/trash app*
+- *No annoying ads/pop-up* 
 
 ❗ ***Note: Windows 10 LTSC EOL at January 12, 2027***
 
