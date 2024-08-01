@@ -4,11 +4,11 @@
 
 One day, Windows pop-up some annoyed notifications like this 🤬
 
-![Windows Update 1](./Images/windows-update-1.jpg)
+![Windows Update 1](../Images/windows-update-1.jpg)
 
 or this 🤬 when you want to shutdown.
 
-![Windows Update 2](./Images/windows-update-2.jpg)
+![Windows Update 2](../Images/windows-update-2.jpg)
 
 Annoyed 😡? Well, there are some tools to turn off automatic and monitor Windows Update 😍.
 
@@ -32,7 +32,7 @@ Currently I'm using it, it can disable automatic update and monitoring Windows u
 
 ## 💽 Intel/AMD/NVDIA Driver
 
-![intel-amd-nvdia](/Images/intel-amd-nvdia.jpg)
+![intel-amd-nvdia](../Images/intel-amd-nvdia.jpg)
 
 Installing Intel, AMD, or NVIDIA drivers through Windows Update can be unreliable and may lead to system instability. For optimal performance and stability, it's recommended to download and install the latest drivers directly from the manufacturer's website.
 
@@ -62,7 +62,7 @@ Before restarting your computer to normal mode, make sure to `DISABLE AUTOMATIC 
 
 ## 🖥 Turn off Fast Startup Windows 10/11
 
-![Fast boot meme](./Images/fast-startup-meme.jpg)
+![Fast boot meme](../Images/fast-startup-meme.jpg)
 
 ### 🤔 *Should I turn off Fast Startup ?*
 

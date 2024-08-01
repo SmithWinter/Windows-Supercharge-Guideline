@@ -14,14 +14,16 @@ This guide will be expanded in future based on community contributions, so don't
 
 But remember to ❗❗❗ `BACKUP YOUR DATA` ❗❗❗  before doing anything else
 
-## 1. 📔 [Windows 10/11 LTSC Installation](./Windows-LTSC-Installation.md)
+## 1. 📔 [Windows 10/11 LTSC Installation](./Pages/Windows-LTSC-Installation.md)
 
 ✏ This section will guide you through installing and activating Windows 10 or 11 LTSC versions.
 
-## 2. 📔 [Windows Post-Install](Windows-Post-Install.md)
+## 2. 📔 [Windows Post-Install](./Pages/Windows-Post-Install.md)
 
 ✏ This section of this guide will guide you through post-install phase of Windows installation
 
-## 3. 📔 [Essential Software List](./Essential-Software-List.md)
+## 3. 📔 [Essential Software List](./Pages/Essential-Software-List.md)
 
 ✏ This section of this guide will show essential software/starter pack for your device.
+
+## 3. 📔 [Optional Software List](./Pages/Optional-Software-List.md)

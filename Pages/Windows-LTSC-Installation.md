@@ -2,7 +2,7 @@
 
 ## **1. 💾 Ventoy**
 
-![Ventoy](./Images/ventoy.jpg)
+![Ventoy](../Images/ventoy.jpg)
 
 Ventoy is an open-source tool designed to create bootable USB drives for operating systems. Unlike traditional methods that require formatting the USB drive and copying the OS files each time, Ventoy allows users to simply copy ISO, WIM, IMG, VHD, or EFI files to the USB drive and boot from them directly. This makes it a versatile and convenient solution for managing multiple operating system installations or live environments from a single USB drive.
 
@@ -26,14 +26,14 @@ To test it, restart your computer, access the boot menu then select the USB driv
 
 ## **2. 💿 Windows 10/11 LTSC ISO**
 
-![MS Windows](./Images/microsoft-windows.jpg)
+![MS Windows](../Images/microsoft-windows.jpg)
 
 ### 🤔 *Why LTSC (Long-term Servicing Channel) ?*
 
 - *Long-term support (10 years) comparing to general channel which supports 5 years*
 - *High stability/less update*
 - *No preinstalled bloatware/trash app*
-- *No annoying ads/pop-up* 
+- *No annoying ads/pop-up*
 
 ❗ ***Note: Windows 10 LTSC EOL at January 12, 2027***
 
@@ -68,7 +68,7 @@ To test it, restart your computer, access the boot menu then select the USB driv
 
 ## **3. 💻 Microsoft Activation Scripts (MAS)**
 
-![MAS](./Images/MAS.JPG)
+![MAS](../Images/MAS.JPG)
 
 A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
