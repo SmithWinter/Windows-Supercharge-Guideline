@@ -1,4 +1,4 @@
-# 📒 Windows Supercharge Guideline 📒
+# 📒 **Windows Supercharge Guideline** 📒
 
 --- 👨‍💻 *Author: Smith Winter* ---
 

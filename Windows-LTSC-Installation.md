@@ -1,4 +1,4 @@
-# 💽 Windows 10/11 LTSC Installation 💽
+# 💽 **Windows 10/11 LTSC Installation** 💽
 
 ## **1. 💾 Ventoy**
 
