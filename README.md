@@ -22,8 +22,12 @@ But remember to ❗❗❗ `BACKUP YOUR DATA` ❗❗❗  before doing anything el
 
 ✏ This section of this guide will guide you through post-install phase of Windows installation
 
-## 3. 📔 [Essential Software List](./Pages/Essential-Software-List.md)
+## 3. 📔 [Tweaking Windows](./Pages/Tweaking-Windows.md) (Optional)
+
+## 4. 📔 [Essential Software List](./Pages/Essential-Software-List.md)
 
 ✏ This section of this guide will show essential software/starter pack for your device.
 
-## 3. 📔 [Optional Software List](./Pages/Optional-Software-List.md)
+## 5. 📔 [Optional Software List](./Pages/Optional-Software-List.md)
+
+## 6. 📔 [Config UI from Windows to MacOS](./Pages/change-windows-ui-to-macos.md) (Optional)
