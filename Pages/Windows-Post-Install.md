@@ -1,42 +1,42 @@
-# 📀 **Windows Post-install**
+# 📀 **Sau khi cài đặt Windows**
 
-## 💻 Turn off automatic Windows Update
+## 💻 Tắt tự động cập nhật Windows
 
-One day, Windows pop-up some annoyed notifications like this 🤬
+Một ngày đẹp trời, mấy fen đang dùng thì Windows cho ra ba cái thông báo phiền phức như này 🤬
 
 ![Windows Update 1](../Images/windows-update-1.jpg)
 
-or this 🤬 when you want to shutdown.
+hoặc như này 🤬 khi mấy fen muốn shutdown máy.
 
 ![Windows Update 2](../Images/windows-update-2.jpg)
 
-Annoyed 😡? Well, there are some tools to turn off automatic and monitor Windows Update 😍.
+Khó chịu 😡? Có vài cách để tắt tự động cập nhật Windows, nhưng mình sẽ nói về các cách phổ biến nhất 😍.
 
-Ah ❗, I would recommend you to update driver for peripheral devices such as WiFi/Bluetooth/LAN adapters 📶 before tweaking Windows Update.
+Ah ❗, Mấy fen nên cài driver cho các thiết bị ngoại vi như WiFi / Bluetooth / LAN adapters 📶 trước khi tinh chỉnh Windows Update.
 
 * ### 💾 [Windows Update Blocker by Sordum](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
 
-🔗 *Alternative*: [Internet Archive](https://archive.org/details/windows-update-blocker-1.8-by-sordum)
+🔗 ***Dự phòng***: [Internet Archive](https://archive.org/details/windows-update-blocker-1.8-by-sordum)
 
-✅ *VirusTotal*: [Link](https://www.virustotal.com/gui/file/a094805ad7530fba95ca68fe8dd061ff2c36447a4dca660229cd4a3602c3371d)
+✅ ***VirusTotal***: [Link](https://www.virustotal.com/gui/file/a094805ad7530fba95ca68fe8dd061ff2c36447a4dca660229cd4a3602c3371d)
 
-This is a simple Windows update blocker, in my opinion i would not recommend using it because of no manual update monitoring.
+Một tool chặn Windows Update đơn giản, tuy nhiên mình không khuyến khích dùng cho lắm vì nó không có tuỳ chỉnh cài đặt cập nhật
 
 * ### 💾 [Windows Update Mini Tool 22.04.2022](https://www.majorgeeks.com/files/details/windows_update_minitool.html)
 
-🔗 *Alternative*: [Internet Archive](https://archive.org/details/windows-update-mini-tool-22.04.2022)
+🔗 ***Dự phòng***: [Internet Archive](https://archive.org/details/windows-update-mini-tool-22.04.2022)
 
-✅ *VirusTotal*: [Link](https://www.virustotal.com/gui/file/1bd6fbd5e65d9e88f47cb43f60e0e694b702513fde26afb18a0d1396bcb7307d)
+✅ ***VirusTotal***: [Link](https://www.virustotal.com/gui/file/1bd6fbd5e65d9e88f47cb43f60e0e694b702513fde26afb18a0d1396bcb7307d)
 
-Currently I'm using it, it can disable automatic update and monitoring Windows updates manually, reliable than the first option.
+Tool này ngoài việc nó có thể tuỳ chỉnh Windows Update còn có thể tuỳ chọn các bản cập nhật, mình đang dùng nó để tắt tự động cập nhật và update bằng tay.
 
 ## 💽 Intel/AMD/NVDIA Driver
 
 ![intel-amd-nvdia](../Images/intel-amd-nvdia.jpg)
 
-Installing Intel, AMD, or NVIDIA drivers through Windows Update can be unreliable and may lead to system instability. For optimal performance and stability, it's recommended to download and install the latest drivers directly from the manufacturer's website.
+Windows Update có một cái rất dở là driver của Intel / AMD / NVDIA của nó không phải là hàng "chuẩn", dễ lỗi, tính ổn định không cao nên thường không được tin cậy cho lắm. Vì thế mấy fen nên tải driver của 3 hãng đó từ web chính chủ cho ổn áp
 
-Below is driver assistant tools for Intel / AMD / NVIDIA.
+Dưới đây là các tool hỗ trợ cài đặt driver từ  Intel / AMD / NVIDIA.
 
 * 🖥 ***Intel***: [Download Center](https://www.intel.com/content/www/us/en/download-center/home.html)
 
@@ -44,44 +44,44 @@ Below is driver assistant tools for Intel / AMD / NVIDIA.
 
 * 🖥 ***NVDIA***: [Download Center](https://www.nvidia.com/download/index.aspx)
 
-The most stable version can vary depending on the specific system. It's recommended to research and find the optimal version for your particular hardware and software configuration.
+Thông thường các bản driver mới nhất không phải bản nào cũng ổn định, vì thế mấy fen nên tự nghiên cứu bản nào ổn định nhất theo cấu hình máy của mấy fen
 
-### 🤔 *What to do if I want to downgrade driver version?*
+### 🤔 *Làm thế nào để downgrade bản driver?*
 
-Simple, use this, mostly recommended by many tech communities
+Dùng tool này, cái này thì thiên hạ ai cũng dùng nên không cần bàn cãi
 
 * ### 💾 [Display Driver Uninstaller of WagnardSoft](https://www.wagnardsoft.com/forums/viewtopic.php?t=4992)
 
-📄 Getting Started: [Document](https://www.wagnardsoft.com/content/How-use-Display-Driver-Uninstaller-DDU-Guide-Tutorial)
+📄 ***Trang chủ:*** [Link](https://www.wagnardsoft.com/content/How-use-Display-Driver-Uninstaller-DDU-Guide-Tutorial)
 
-📺 Prefer a video tutorial? Watch this [video](https://www.youtube.com/watch?v=xn8z39tiEL0)
+📺 ***Quá lười để đọc?*** Xem [video](https://www.youtube.com/watch?v=q7z7VZ3SHs8)
 
-Once the old driver is removed, install the desired driver version.
+Cài driver bản mấy fen muốn cài sau khi gỡ driver bản cũ.
 
-Before restarting your computer to normal mode, make sure to `DISABLE AUTOMATIC WINDOWS UPDATE` to prevent the driver from being reinstalled.
+Trước khi thoát `Safe Mode`, `TẮT TỰ ĐỘNG CẬP NHẬT WINDOWS` để tránh việc Windows Update tự ý cập nhật driver
 
-## 🖥 Turn off Fast Startup Windows 10/11
+## 🖥 Tắt Fast Startup Windows 10/11
 
 ![Fast boot meme](../Images/fast-startup-meme.jpg)
 
-### 🤔 *Should I turn off Fast Startup ?*
+### 🤔 *Có nên tắt Fast Startup không ?*
 
-Before SSDs became widely available, HDDs were the primary storage option for computers, its reading speed were significantly slower compared to today's standards. This slower speed impacted overall system performance, especially when loading applications or large files.
+Hồi xưa, khi mà SSD (Solid State Drive) chưa phổ biến, HDD (Hard Disk Drive) được sử dụng đa số từ Windows tới MacOS, đương nhiên thời đó tốc độ khá là chậm nên bật Windows 10 trở đi là một cực hình khi khởi động rất lâu (trung bình 30s -> 60s), nên Fast Startup là một "cứu cánh" cho máy xài HDD khi mà giảm thời gian khởi động rất nhiều
 
-Fast Startup is generally not recommended for SSDs due to several reasons:
+Thời nay, người người nhà nhà xài SSD, giá thành không đắt như trước, thì tính năng này khá là thừa thãi khi chỉ bật máy nhanh hơn vài giây, chưa kể có những tranh cãi về việc SSD bị giảm tuổi thọ khi dùng tính năng này
 
-* **Diminished performance benefits**: SSDs are significantly faster than HDDs, so the boot time improvements offered by Fast Startup are minimal.
+Bản chất của Fast Startup là tính năng "lai" giữa Sleep và Hibernation của Windows, nên tính năng này không hoàn toàn shutdown máy, thành ra có khả năng tiềm tàng sinh ra các bug ảo ma canada, chưa kể mấy fen không "dual boot" được chừng nào tính năng này còn bật
 
-* **Potential for system instability**: Fast Startup doesn't perform a full shutdown, which can lead to incomplete updates, corrupted files, or other system issues.
+Tuỳ với nhu cầu mỗi người, nhưng với mình là tắt
 
-* **Unnecessary wear on the SSD**: While the impact is debated, some argue that Fast Startup's write operations to the SSD during hibernation can slightly shorten its lifespan.
+Muốn tìm hiểu thêm? Xem [video](https://www.youtube.com/watch?v=QnBrv2wuSOg)
 
-### 🤔 *What distinguish between Fast Startup and Hibernation?*
+### 🤔 *Phân biệt giữa Fast Startup và Hibernation?*
 
-📝 Explanation from Microsoft: [Document](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/distinguishing-fast-startup-from-wake-from-hibernation)
+📝 ***Phân tích của Microsoft:*** [Document](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/distinguishing-fast-startup-from-wake-from-hibernation)
 
-### 🤔 *How do I turn off Fast Startup ?*
+### 🤔 *Làm thế nào để tắt Fast Startup?*
 
-📄 Documentation: [Link](https://www.windowscentral.com/how-disable-windows-10-fast-startup)
+📄 ***Hướng dẫn:*** [Link](https://quantrimang.com/vo-hieu-tuy-chon-fast-startup-tren-windows-8-91957)
 
-📺 Prefer a video tutorial? Watch this [video](https://www.youtube.com/watch?v=L049J2yxY_w)
+📺 ***Quá lười để đọc?*** Xem [video](https://www.youtube.com/watch?v=l0rTG7b5sGc)

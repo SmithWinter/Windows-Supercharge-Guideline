@@ -1,33 +1,25 @@
-# 📒 **Windows Supercharge Guideline** 📒
+# 📒 **Hướng dẫn tổng hợp tối ưu Windows** 📒
 
---- 👨‍💻 *Author: Smith Winter* ---
+--- 👨‍💻 *Tác giả:* [SmithWinter](https://voz.vn/u/smithwinter.1715938/) ---
 
 ![Background-1](./Images/background-1.jpg)
 
---- ❗ *Disclaimer: This guide for personal Windows device only* ---
+--- ❗ *Lưu ý: Hướng dẫn chỉ hướng tới các thiết bị Windows cá nhân* ---
 
-One day, your device might feel slow or outdated. To give it a fresh start and potentially improve performance, you might decide to reset it. This process wipes your device clean, allowing you to set it up again from scratch. 😁
+Một ngày, mấy fen thấy cái máy chậm và lag hơn rùa bò, hay chỉ là muốn cho cái máy một khởi đầu mới. Nhân lúc rảnh rỗi mấy bác quyết định "reset" cái máy và thế là mấy thớt tìm các "tút" về Windows trên Google 😁
 
-Looking to boost your Windows experience? You've come to the right place. This guide is designed to help you optimize your device for maximum performance and enjoyment. 🥰
+Có những "thớt" như vậy trên các diễn đàn công nghệ "đầu hàng" như VoZ, VN-Zoom, TinhTe,... Những "thớt" này được tổng hợp trong thời gian rất dài, đương nhiên muốn tìm kiếm phải lăn qua chỗ này chỗ kia, hay phải "đánh dấu" để chống trôi, ai chứ riêng mình thì lười lắm
 
-This guide will be expanded in future based on community contributions, so don't shy about sharing ideas, experiences to ***supercharge*** Windows 😍
+Vì thế chiếc hướng dẫn này sinh ra để tổng hợp lại các "tút" về Windows dựa vào số lượng vô cực các "thớt" trên 4rum và GitHub, đương nhiên là viết trên GitHub vì mình muốn ai cũng có thể "fork" về và đóng góp dựa trên trải nghiệm cá nhân của mỗi người
 
-But remember to ❗❗❗ `BACKUP YOUR DATA` ❗❗❗  before doing anything else
+"Thớt" này được viết bằng Markdown và dựng trên GitHub Page, hướng tới mọi đối tượng
 
-## 1. 📔 [Windows 10/11 LTSC Installation](./Pages/Windows-LTSC-Installation.md)
+Luôn nhớ  ❗❗❗ `SAO LƯU DỮ LIỆU` ❗❗❗ trước khi tuỳ chỉnh để tránh mất mát không đáng có
 
-✏ This section will guide you through installing and activating Windows 10 or 11 LTSC versions.
+## 1. 📔 [Cài đặt Windows 10/11 LTSC](./Pages/Windows-LTSC-Installation.md)
 
-## 2. 📔 [Windows Post-Install](./Pages/Windows-Post-Install.md)
+✏ Phần này sẽ hướng dẫn mấy fen cài đặt và kích hoạt Windows 10/11 LTSC.
 
-✏ This section of this guide will guide you through post-install phase of Windows installation
+## 2. 📔 [Sau khi cài đặt Windows](./Pages/Windows-Post-Install.md)
 
-## 3. 📔 [Tweaking Windows](./Pages/Tweaking-Windows.md) (Optional)
-
-## 4. 📔 [Essential Software List](./Pages/Essential-Software-List.md)
-
-✏ This section of this guide will show essential software/starter pack for your device.
-
-## 5. 📔 [Optional Software List](./Pages/Optional-Software-List.md)
-
-## 6. 📔 [Config UI from Windows to MacOS](./Pages/change-windows-ui-to-macos.md) (Optional)
+✏ Phần này sẽ hướng dẫn mấy fen giai đoạn sau khi cài đặt và kích hoạt Windows.
