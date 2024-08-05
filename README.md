@@ -18,8 +18,12 @@ Luôn nhớ  ❗❗❗ `SAO LƯU DỮ LIỆU` ❗❗❗ trước khi tuỳ chỉ
 
 ## 1. 📔 [Cài đặt Windows 10/11 LTSC](./Pages/Windows-LTSC-Installation.md)
 
-✏ Phần này sẽ hướng dẫn mấy fen cài đặt và kích hoạt Windows 10/11 LTSC.
+📝 Phần này sẽ hướng dẫn mấy fen cài đặt và kích hoạt Windows 10/11 LTSC.
 
 ## 2. 📔 [Sau khi cài đặt Windows](./Pages/Windows-Post-Install.md)
 
-✏ Phần này sẽ hướng dẫn mấy fen giai đoạn sau khi cài đặt và kích hoạt Windows.
+📝 Phần này sẽ hướng dẫn mấy fen giai đoạn sau khi cài đặt và kích hoạt Windows.
+
+## 3. 📔 [Danh mục phần mềm thiết yếu](./Pages/Essential-Software-Category.md)
+
+📝 Phần này liệt kê các phần mềm cho Windows, mình sẽ ưu tiên freemium/shareware mã nguồn mở, sau đó là trả phí. Tool "cướp biển" trả phí 1 là open source, còn 2 là license file (có up VirusTotal) + tinh chỉnh registry, khá là an toàn

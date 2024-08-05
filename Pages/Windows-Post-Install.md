@@ -1,4 +1,4 @@
-# 📀 **Sau khi cài đặt Windows**
+# 📀 **Sau khi cài đặt Windows** 📀
 
 ## 💻 1. Tắt tự động cập nhật Windows
 
@@ -78,7 +78,7 @@ Tuỳ với nhu cầu mỗi người, nhưng với mình là tắt. 😏
 
 ### 🤔 *Phân biệt giữa Fast Startup và Hibernation?*
 
-📝 ***Phân tích của Microsoft:*** [Document](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/distinguishing-fast-startup-from-wake-from-hibernation)
+📰 ***Phân tích của Microsoft:*** [Document](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/distinguishing-fast-startup-from-wake-from-hibernation)
 
 ### 🤔 *Làm thế nào để tắt Fast Startup?*
 
