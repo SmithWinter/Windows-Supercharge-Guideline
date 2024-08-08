@@ -21,6 +21,8 @@
   - [📬 10. Phần mềm quản lý email](#-10-phần-mềm-quản-lý-email)
   - [🏢 10. Phần mềm cho văn phòng](#-10-phần-mềm-cho-văn-phòng)
   - [🖼 11. Phần mềm xem ảnh](#-11-phần-mềm-xem-ảnh)
+  - [🔑 12.  Phần mềm quản lý mật khẩu](#-12--phần-mềm-quản-lý-mật-khẩu)
+  - [🎥 13.  Phần mềm chụp/quay màn hình](#-13--phần-mềm-chụpquay-màn-hình)
 
 ## 🌍 1. Trình duyệt Web
 
@@ -238,3 +240,35 @@
 |:---|:---|:---:|:---:|
 | [qView](https://interversehq.com/qview/) | UI/UX tối giản, chỉ xem hình | ✔ |❌ |
 | [ImageGlass](https://imageglass.org/) | Hàng VN, gọn nhẹ, có tính năng chỉnh sửa ảnh cơ bản | ✔ |❌ |
+
+## 🔑 12.  Phần mềm quản lý mật khẩu
+
+😍 ***Phổ biến nhất:***
+
+| Tên | Miêu tả | Mã nguồn mở | Trả phí |
+|:---|:---|:---:|:---:|
+| [Bitwarden](https://bitwarden.com/) | Bảo mật tốt, chi tiết xin tham khảo [Link](https://voz.vn/t/tat-tan-tat-ve-dich-vu-bitwarden.877603/) | ✔ |❌ |
+| [KeePass](https://keepass.info/) | Tính năng tương tự Bitwarden | ✔ |❌ |
+
+🤩 ***Lựa chọn thay thế:***
+
+| Tên | Miêu tả | Mã nguồn mở | Trả phí |
+|:---|:---|:---:|:---:|
+| [Proton Pass](https://proton.me/pass) | UI/UX đẹp mắt, tính năng tương tự như trên | ✔ |❌ |
+| [Dashlane](https://www.dashlane.com/) | Miễn phí cho mục đích cá nhân | ❌ | ❌ |
+| [1Password](https://1password.com/)  | Miễn phí cho mục đích cá nhân | ❌ | ❌ |
+
+## 🎥 13.  Phần mềm chụp/quay màn hình
+
+😍 ***Phổ biến nhất:***
+
+| Tên | Miêu tả | Mã nguồn mở | Trả phí |
+|:---|:---|:---:|:---:|
+| [OBS](https://obsproject.com/) | Nhiều tính năng, có cả livestream | ✔ |❌ |
+
+🤩 ***Lựa chọn thay thế:***
+
+| Tên | Miêu tả | Mã nguồn mở | Trả phí |
+|:---|:---|:---:|:---:|
+| [ShareX](https://getsharex.com/) | UI/UX đơn giản, không mạnh bằng OBS | ✔ |❌ |
+| [Loom](https://www.loom.com/) | Dễ xài, nhưng khá ngốn RAM | ❌ | ❌ |
