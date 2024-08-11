@@ -27,3 +27,7 @@ Luôn nhớ  ❗❗❗ `SAO LƯU DỮ LIỆU` ❗❗❗ trước khi tuỳ chỉ
 ## 3. 📔 [Danh mục phần mềm thiết yếu](./Pages/Essential-Software-Category.md)
 
 📝 Phần này liệt kê các phần mềm cho Windows, mình sẽ ưu tiên freemium/shareware mã nguồn mở, sau đó là trả phí. Tool "cướp biển" trả phí 1 là open source, còn 2 là license file (có up VirusTotal) + tinh chỉnh registry, khá là an toàn
+
+## 4. 📔 [Danh sách các flag hữu ích cho trình duyệt họ Chromium](./Pages/Chromium-Flag.md)
+
+📝 Phần này liệt kê những flag (tính năng ẩn) hữu ích trong trình duyệt họ Chromium để trải nghiệm lướt web tốt hơn
